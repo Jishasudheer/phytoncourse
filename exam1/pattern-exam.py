@@ -1,0 +1,14 @@
+a=int(input("Enter initial range"))
+b=int(input("Enter final range"))
+r=5
+for i in range(a,b):
+    if(i%2==0):
+        for k in range (r,0,-1):
+            for j in range(0,k):
+                print(i,end=" ")
+            print()
+    else:
+        for k in range(r):
+            for j in range (0,k+1):
+                print(i,end=" ")
+            print()

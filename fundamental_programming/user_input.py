@@ -1,0 +1,6 @@
+name=input("Enter your Name :")
+college=input("Enter your College Name :")
+year=input("Enter the year of passing")
+print("Name :",name)
+print("College :",college)
+print("Year of Passing:",int(year))
