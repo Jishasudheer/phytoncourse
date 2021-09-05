@@ -1,13 +1,11 @@
-list1=[11,16,21,25,27]
-list2=[12,16,20,21,28]
-l1=len(list1)
-l2=len(list2)
+list1=[5,11,16,21,25,28]
+list2=[4,5,10,11,16,20,23,28]
 i=0
 j=0
-while(l1<=l2):
+while(i<len(list1)):
     if(list1[i]==list2[j]):
         print(list1[i])
-        break
+        i+=1
     elif(list1[i]<list2[j]):
         i+=1
     elif(list1[i]>list2[j]):
