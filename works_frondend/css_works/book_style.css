@@ -8,6 +8,7 @@ div{
 img{
     width:100%;
     height: 60%;
+    
 }
 .heading{
    
@@ -29,4 +30,36 @@ img{
     color: darkblue;
     text-align: center;
     text-decoration: underline;
+}
+.section1 h6{
+    color:rgb(97, 5, 33);
+    text-align: left;
+}
+.section2 h6{
+    color: orangered;
+    text-align: left;
+}
+.section3 h6{
+    color: palevioletred;
+    text-align: left;
+}
+.footer{
+    width:96%;
+    height: 200px;
+    float: left;
+    border-color: yellow;
+    border-width: medium ;
+    border-style: solid;
+}
+.footer img{
+    width:9%;
+    height: 50%;
+    border-style: solid;
+    border-color: violet;
+    border-width: medium;
+}
+.footer h3{
+    color: blueviolet;
+    text-decoration: chocolate;
+    text-align: center;
 }
