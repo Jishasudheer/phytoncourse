@@ -1,0 +1,19 @@
+/*Tagname or id or classname */
+
+h1{
+    color: red;
+}
+h2{
+    color:#50738c
+}
+#htwo
+{
+    color:hsl(9, 27%, 43%)
+}
+#second
+{
+    color:aqua
+}
+.third{
+    color:chartreuse
+}
