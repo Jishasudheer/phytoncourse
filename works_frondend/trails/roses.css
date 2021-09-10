@@ -1,0 +1,51 @@
+/* styles for roses */
+h1{
+    color:hsl(304, 92%, 51%);
+    text-align: center;
+}
+
+
+
+div{
+width:20%;
+height: 400px;
+border: 3px solid rgb(210,100, 50);
+float: left;
+}
+img{
+    width:100%;
+    height:300px;
+}
+.red h4{
+  color: red;
+  text-align: center;
+  
+}
+.red h3{
+  color: red;
+  text-align: center;
+}
+.yellow h4{
+    color:yellow;
+    text-align: center;
+}
+.yellow h3{
+    color:yellow;
+    text-align: center;
+}
+.blue h4{
+    color:blue;
+    text-align: center;
+}
+.blue h3{
+    color:blue;
+    text-align: center;
+}
+.pink h3{
+    color:palevioletred;
+    text-align: center;
+}
+.pink h4{
+    color:palevioletred;
+    text-align: center;
+}
