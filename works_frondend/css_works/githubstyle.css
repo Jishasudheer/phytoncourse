@@ -1,0 +1,101 @@
+.main{
+    height: 600px;
+    width:500px;
+    /* border:1px solid black; */
+    position:relative;
+    margin-left: 30%;
+}
+i{
+    position: absolute;
+    left:232px;
+    top:10px
+}
+.signintogitHub_label{
+    position: absolute;
+    left:193px;
+    top:63px
+}
+.frame{
+    height: 223px;
+    width:300px;
+    /* border:1px solid blue; */
+    background-color: hsl(198, 23%, 80%);
+    position:relative;
+    top: 100px;
+    left: 100px;
+}
+.lablel_usernameoremail{
+    position: absolute;
+    top:30px;
+    left:20px;
+    
+}
+.txt_usernameoremail{
+    position:absolute;
+    top: 55px;
+    left: 20px;
+}
+.label_password{
+    position:absolute;
+    top: 90px;
+    left:20px;
+
+}
+.h_link_forgotpassword{
+    position:absolute;
+    top:90px;
+    left:168px;
+}
+.txt_password{
+    position: absolute;
+    top:120px;
+    left: 20px;
+}
+.button_submit{
+    position: absolute;
+    top: 167px;
+    left: 20px;
+    
+    /* background-color: rgb(57, 214, 52); */
+    
+}
+#button_submit{
+    color:white;
+    background-color: rgb(11, 143, 18);
+}
+.label_Newtogithub{
+    position: absolute;
+    left: 36px;
+    top: 269px;
+}
+.hyper_CreateanAccount{
+    position:absolute;
+    left: 146px;
+    top: 269px;
+}
+.foot{
+    position: relative;
+      
+}
+.div_terms{
+    position:absolute;
+    left: 106px;
+    top: 330px;
+}
+.div_privacy{
+    position: absolute;
+    left: 164px;
+    top: 330px;
+}
+.div_security{
+    position: absolute;
+    left: 226px;
+    top: 330px;
+}
+.div_contact{
+    position: absolute;
+    left: 290px;
+    top: 330px;
+}
+
+
